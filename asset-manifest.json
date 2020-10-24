@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.87068b72.chunk.css",
-    "main.js": "/static/js/main.e7248d46.chunk.js",
-    "main.js.map": "/static/js/main.e7248d46.chunk.js.map",
+    "main.css": "/static/css/main.f48c27c6.chunk.css",
+    "main.js": "/static/js/main.cfc594fa.chunk.js",
+    "main.js.map": "/static/js/main.cfc594fa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.906d5e0f.js",
     "runtime-main.js.map": "/static/js/runtime-main.906d5e0f.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.c8780841.chunk.js": "/static/js/2.c8780841.chunk.js",
-    "static/js/2.c8780841.chunk.js.map": "/static/js/2.c8780841.chunk.js.map",
+    "static/js/2.c1f932cc.chunk.js": "/static/js/2.c1f932cc.chunk.js",
+    "static/js/2.c1f932cc.chunk.js.map": "/static/js/2.c1f932cc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6f2e0548a9c6d72fc1506a0b6022d5ab.js": "/precache-manifest.6f2e0548a9c6d72fc1506a0b6022d5ab.js",
+    "precache-manifest.7dbfb1d497d2d828e5aa41c5c9b506c6.js": "/precache-manifest.7dbfb1d497d2d828e5aa41c5c9b506c6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.87068b72.chunk.css.map": "/static/css/main.87068b72.chunk.css.map",
-    "static/js/2.c8780841.chunk.js.LICENSE.txt": "/static/js/2.c8780841.chunk.js.LICENSE.txt",
-    "static/media/Resume.pdf": "/static/media/Resume.b82390e5.pdf",
+    "static/css/main.f48c27c6.chunk.css.map": "/static/css/main.f48c27c6.chunk.css.map",
+    "static/js/2.c1f932cc.chunk.js.LICENSE.txt": "/static/js/2.c1f932cc.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/static/media/Resume.44532d60.pdf",
     "static/media/bbs.png": "/static/media/bbs.19073850.png",
     "static/media/email.png": "/static/media/email.d850729a.png",
     "static/media/github.png": "/static/media/github.9ffd3ded.png",
+    "static/media/mtl_analysis.png": "/static/media/mtl_analysis.40fdc9f7.png",
     "static/media/site.png": "/static/media/site.c3d4e567.png",
     "static/media/snf.svg": "/static/media/snf.10d7b888.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.906d5e0f.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.c8780841.chunk.js",
-    "static/css/main.87068b72.chunk.css",
-    "static/js/main.e7248d46.chunk.js"
+    "static/js/2.c1f932cc.chunk.js",
+    "static/css/main.f48c27c6.chunk.css",
+    "static/js/main.cfc594fa.chunk.js"
   ]
 }
